@@ -1,0 +1,16 @@
+body{
+  background-color: #f0f8ff;
+  width: 100%;
+}
+
+.ql-editor{
+  min-height: 200px;
+}
+
+@media (min-height: 900px) {
+  .footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}
